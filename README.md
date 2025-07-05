@@ -8,6 +8,6 @@
 📈 Translating intense self-discipline into scalable, clean code. </br>
 🌱 Committed to becoming the best version of myself through consistent study. </br>
 🛠️ Crafting job-ready, real-world ML and GenAI projects with care. </br>
-### Platforms : </br>
-#### [Kaggle](https://www.kaggle.com/prince9115) </br>
+### Platforms :
+#### [Kaggle](https://www.kaggle.com/prince9115)
 #### [Streamlit](https://share.streamlit.io/user/prince9115)
