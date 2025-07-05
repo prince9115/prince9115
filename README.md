@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**prince9115/prince9115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello I'm Prince Patel🤴 </br>
+### Bio : </br>
+🚀 Building ML/DL & GenAI solutions with structured, deep learning. </br>
+🧠 Exploring the full potential of my mind to create impact with tech. </br>
+🎯 Focused on mastering concepts, not just finishing tasks. </br>
+⚡ I learn fast, build rigorously, and tune models with intention. </br>
+🔍 Passionate about understanding systems deeply before optimizing them. </br>
+📈 Translating intense self-discipline into scalable, clean code. </br>
+🌱 Committed to becoming the best version of myself through consistent study. </br>
+🛠️ Crafting job-ready, real-world ML and GenAI projects with care. </br>
+### Platforms : </br>
+#### [Kaggle](https://www.kaggle.com/prince9115) </br>
+#### [Streamlit](https://share.streamlit.io/user/prince9115)
