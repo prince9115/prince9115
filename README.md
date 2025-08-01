@@ -1,4 +1,4 @@
-## Hello I'm Prince Patel🤴 </br>
+## Hello I'm Prince Patel </br>
 ### Bio : </br>
 🚀 Building ML/DL & GenAI solutions with structured, deep learning. </br>
 🧠 Exploring the full potential of my mind to create impact with tech. </br>
